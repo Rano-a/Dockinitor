@@ -23,7 +23,7 @@ Dockinitor is designed to simulate a multi-server infrastructure using Docker co
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/dockinitor.git && cd dockinitor
+git clone https://github.com/Rano-a/Dockinitor.git && cd Dockinitor
 ```
 
 ### 2. Build and run the containers
