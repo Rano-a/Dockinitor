@@ -41,4 +41,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 ## 🧑‍💻 Author
 
-Made with ☕, 🐳, and a bit of system overload by **[Your Name]**
+Made with ☕, 🐳, and a lot of struggle by **[Your Name]**
