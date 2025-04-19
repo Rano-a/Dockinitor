@@ -1,14 +1,30 @@
 {
     "server01": {
-        "cpu_threshold": 90,
-        "ram_threshold": 90,
-        "disk_threshold": 90,
-        "maintenance": false
-    },
-    "server02": {
+        "category": "PROD",
         "cpu_threshold": 80,
         "ram_threshold": 80,
         "disk_threshold": 80,
+        "maintenance": false
+    },
+    "server02": {
+        "category": "INFRA",
+        "cpu_threshold": 85,
+        "ram_threshold": 85,
+        "disk_threshold": 85,
+        "maintenance": false
+    },
+    "server03": {
+        "category": "QUA",
+        "cpu_threshold": 80,
+        "ram_threshold": 80,
+        "disk_threshold": 80,
+        "maintenance": false
+    },
+    "server04": {
+        "category": "DEV",
+        "cpu_threshold": 70,
+        "ram_threshold": 70,
+        "disk_threshold": 70,
         "maintenance": false
     }
 }

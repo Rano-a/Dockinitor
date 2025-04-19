@@ -1,0 +1,8 @@
+{
+    "timestamp": "2025-04-19T18:09:23.964918",
+    "server_name": "server04",
+    "message": "[MONITORING ALERT] Disk usage on C:\\ is 83.0%, (>70%)",
+    "metric_type": "DISK_C_",
+    "severity": "LOW",
+    "ticket_id": "e824e16d-7be6-44da-a1b8-fc1c18da49c1"
+}
